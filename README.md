@@ -1,12 +1,14 @@
 Welcome to this Star Wars Server.
-Some of the Default Characters are bugged. Make your own with a new mercenary.
 Maps Are 
 Duel of Fate
 GeonosisArena 
 Imperialhangar 
 JediTemple
+
+Some of the Default Characters are bugged. Make your own with a new mercenary & mix and match until it works.
+Change Characters Face and voice to get some Characters, and other just a helmet.
+Broken Characters Chewbacca, Proxy and Luke.
+Working Default Charachters are Darth Vader. Praetorian Guard, Droids, Stormtroopers Kylo Ren, Obi Wan, Ewok
+To fix Darth Maul and Landos Face Change Gloves to "Workers gloves" to fix face
+DO DONT USE "Peasant Shirt" it will crash the game. Only game breaking bug
 Server Admin Blackbeard
-  ___| |_ __ _ _ __  __      ____ _ _ __ ___ 
- / __| __/ _` | '__| \ \ /\ / / _` | '__/ __|
- \__ \ || (_| | |     \ V  V / (_| | |  \__ \
- |___/\__\__,_|_|      \_/\_/ \__,_|_|  |___/
